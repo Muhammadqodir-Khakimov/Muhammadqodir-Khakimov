@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Muhammadqodir Hakimov 👋
 
-<!--
-**Muhammadqodir-Khakimov/Muhammadqodir-Khakimov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Python Developer from Uzbekistan 🇺🇿
 
-Here are some ideas to get you started:
+## 🚀 About me
+- 🔧 I build backend systems using Django and Flask
+- 📱 I develop mobile and web apps with Flutter
+- 🔗 I work with REST APIs and databases
+- 📈 I am improving my full-stack development skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech stack
+- 🐍 Python
+- 🌐 Django
+- ⚡ Flask
+- 🔗 REST APIs
+- 📱 Flutter
+- 🎯 Dart
+- 🗄 PostgreSQL
+- 💾 SQLite
+- 🔧 Git & GitHub
+
+## 📂 Projects
+- 📝 Blog API (Django REST Framework)
+- ✅ Todo App (Flutter + Flask API)
+- 🔐 Authentication System (JWT, Django)
+
+## 📚 Currently learning
+- 📘 Advanced Django
+- 🧱 Clean Architecture
+- 🚀 Deployment (Docker, VPS)
+
+## 📫 Contact
+- 💬 Telegram: https://t.me/Khakimov_MT
+- 📧 Email: khakimov.coder@gmail.com
