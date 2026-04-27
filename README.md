@@ -1,49 +1,80 @@
-# Hi, I'm Muhammadqodir Hakimov 👋
-
-💻 Python & Flutter Developer from Uzbekistan 🇺🇿
+<h1 align="center">Hi 👋, I'm Muhammadqodir Hakimov</h1>
+<h3 align="center">Python, Flutter & AI Enthusiast from Uzbekistan 🇺🇿</h3>
 
 ---
 
 ## 🚀 About Me
-- 🔧 I build backend systems using Django and Flask  
-- 📱 I develop mobile apps with Flutter  
-- 🔗 I work with REST APIs and databases  
-- 📈 I am improving my full-stack development skills  
+
+* 🔭 I’m currently building backend systems using **Django** and **Flask**, and working on **AI-based projects**
+* 👯 I’m open to collaborating on **web, mobile, and AI-driven applications**
+* 🤝 I’m looking for help with **advanced full-stack development, AI integration, and system design**
+* 🌱 I’m currently learning **Artificial Intelligence, Machine Learning, and Full-Stack Development**
+* 💬 Ask me about **Python, Django, Flask, Flutter, REST APIs, and AI basics**
+* ⚡ Fun fact: I enjoy integrating AI into real-world applications
 
 ---
 
 ## 🌐 Socials
-[![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/Khakimov_MT)
-[![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/khakimov_22_)
+
+<p align="left">
+<a href="https://t.me/Khakimov_MT" target="blank">Telegram</a> |
+<a href="#" target="blank">Instagram</a> |
+<a href="#" target="blank">LinkedIn</a> |
+<a href="#" target="blank">WhatsApp</a>
+</p>
 
 ---
 
 ## 🛠 Tech Stack
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![Django](https://img.shields.io/badge/Django-green?style=for-the-badge&logo=django)
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
-![Flutter](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter)
-![Dart](https://img.shields.io/badge/Dart-blue?style=for-the-badge&logo=dart)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
-![SQLite](https://img.shields.io/badge/SQLite-lightgrey?style=for-the-badge&logo=sqlite)
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+
+### 👨‍💻 Programming Languages
+
+Python • Dart • JavaScript
+
+### 🌐 Backend Development
+
+Django • Flask • FastAPI • REST APIs • JWT Authentication
+
+### 📱 Mobile Development
+
+Flutter
+
+### 🗄 Databases
+
+PostgreSQL • SQLite
+
+### 🎨 Frontend
+
+HTML • CSS
+
+### ⚙️ Tools & Technologies
+
+Git • GitHub • Docker (learning)
+
+### 🤖 AI / Data Science
+
+NumPy • Pandas • Matplotlib • Machine Learning Basics • AI Tools
 
 ---
 
 ## 📂 Projects
-- 📝 Blog API (Django REST Framework)  
-- ✅ Todo App (Flutter + Flask API)  
-- 🔐 Authentication System (JWT, Django)  
+
+* 📝 **Blog API** (Django REST Framework)
+* ✅ **Todo App** (Flutter + Flask API)
+* 🔐 **Authentication System** (JWT, Django)
 
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Muhammadqodir-Khakimov&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammadqodir-Khakimov&layout=compact)
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Khakimov-MT&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khakimov-MT&layout=compact" />
+</p>
 
 ---
 
 ## 📫 Contact
-- 💬 Telegram: https://t.me/Khakimov_MT  
-- 📧 Email: khakimov.coder@gmail.com  
+
+* 💬 Telegram: https://t.me/Khakimov_MT
+* 📧 Email: [khakimov.coder@gmail.com](mailto:khakimov.coder@gmail.com)
